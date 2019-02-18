@@ -1,0 +1,28 @@
+body{    background-color: hsla(105, 14%, 29%, 0.51);
+ }
+div{    margin: auto;width: 90%;
+	
+ } 
+table{
+			width: 100%;
+			background: #9dd6ff;
+			border-collapse: collapse;
+
+ }
+   
+th{ font-size: 20px;
+    text-align: center;
+    background-color: darkcyan;
+    color: floralwhite;
+        padding: 10px;
+ }
+tr{ text-align: center;
+    color: initial;
+    font-size: 18px
+ } 		
+td{}
+h1{
+     text-align: center;
+    color: #fbd200;
+    background: black;
+}
